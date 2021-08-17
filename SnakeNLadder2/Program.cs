@@ -44,8 +44,11 @@ namespace SnakeNLadder2
                         break;
 
 
+
                 }
             }
+            Console.WriteLine("no of times dice roll is " + diceRoll);
+
         }
     }
 }
