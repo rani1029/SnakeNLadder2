@@ -1,0 +1,13 @@
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\SnakeNLadder2\SnakeNLadder2\bin\Debug\netcoreapp3.1\SnakeNLadder2.exe
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\SnakeNLadder2\SnakeNLadder2\bin\Debug\netcoreapp3.1\SnakeNLadder2.deps.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\SnakeNLadder2\SnakeNLadder2\bin\Debug\netcoreapp3.1\SnakeNLadder2.runtimeconfig.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\SnakeNLadder2\SnakeNLadder2\bin\Debug\netcoreapp3.1\SnakeNLadder2.runtimeconfig.dev.json
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\SnakeNLadder2\SnakeNLadder2\bin\Debug\netcoreapp3.1\SnakeNLadder2.dll
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\SnakeNLadder2\SnakeNLadder2\bin\Debug\netcoreapp3.1\SnakeNLadder2.pdb
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\SnakeNLadder2\SnakeNLadder2\obj\Debug\netcoreapp3.1\SnakeNLadder2.csprojAssemblyReference.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\SnakeNLadder2\SnakeNLadder2\obj\Debug\netcoreapp3.1\SnakeNLadder2.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\SnakeNLadder2\SnakeNLadder2\obj\Debug\netcoreapp3.1\SnakeNLadder2.AssemblyInfo.cs
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\SnakeNLadder2\SnakeNLadder2\obj\Debug\netcoreapp3.1\SnakeNLadder2.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\SnakeNLadder2\SnakeNLadder2\obj\Debug\netcoreapp3.1\SnakeNLadder2.dll
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\SnakeNLadder2\SnakeNLadder2\obj\Debug\netcoreapp3.1\SnakeNLadder2.pdb
+C:\Users\admin\Desktop\Terminalcommands\cloned_masterCsharpprograms\SnakeNLadder2\SnakeNLadder2\obj\Debug\netcoreapp3.1\SnakeNLadder2.genruntimeconfig.cache
